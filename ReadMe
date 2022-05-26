@@ -1,0 +1,2 @@
+Goal is to import an excel file containing unique identifiers (RxCUI) for medicines, call NIH's RxCUI API and gather data and add the imported data to a new ETL dataset. 
+Next, multiple tables created off of that ETL dataset. 
